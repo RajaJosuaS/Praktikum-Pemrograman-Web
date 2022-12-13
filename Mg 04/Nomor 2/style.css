@@ -1,0 +1,105 @@
+img {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-blend-mode: color-burn;
+}
+
+body {
+    background-color: rgb(203, 215, 151);
+}
+
+#kenal {
+    position: absolute;
+    left: 220px;
+    bottom: 140px;
+}
+
+#kenal1 {
+    position: absolute;
+    left: 220px;
+    bottom: 130px;
+}
+
+#tentang {
+    position: absolute;
+    left: 230px;
+    bottom: 15px;
+}
+
+#pengalaman {
+    position: absolute;
+    left: 460px;
+    bottom: 15px;
+}
+
+#kontak {
+    position: absolute;
+    left: 680px;
+    bottom: 15px;
+}
+
+#atass {
+    background-color: rgb(92, 153, 189);
+    height: 200px;
+    width: 780px;
+    position: relative;
+    left: 300px;
+}
+
+#nama {
+    font-style: italic;
+    color: rgb(177, 210, 119);
+}
+
+#tentang_saya {
+    background-color: rgba(104, 165, 184, 0.781);
+    height: 200px;
+    width: 780px;
+    position: relative;
+    left: 300px;
+}
+
+#video {
+    position: absolute;
+    left: 375px;
+    bottom: 0.5px;
+    height: 200px;
+    width: 400px;
+}
+
+#saya {
+    margin-right: 500px;
+}
+
+#pengalaman_kerja {
+    background-color: rgba(104, 165, 184, 0.781);
+    height: 200px;
+    width: 780px;
+    position: relative;
+    left: 300px;
+}
+
+#kontak_saya {
+    background-color: rgba(104, 165, 184, 0.781);
+    height: 230px;
+    width: 780px;
+    position: relative;
+    left: 300px;
+}
+
+#akhir {
+    position: absolute;
+    left: 310px;
+}
+
+#checkboks {
+    position: relative;
+    left: 300px;
+    bottom: 112px;
+}
+
+#submit {
+    position: relative;
+    bottom: 90px;
+}
